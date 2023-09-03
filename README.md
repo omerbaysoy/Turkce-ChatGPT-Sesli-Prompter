@@ -1,0 +1,1 @@
+# Turkce-ChatGPT-Sesli-Prompter
