@@ -1,5 +1,5 @@
 # Turkce-ChatGPT-Sesli-Prompter
-# Gerekli Python Kütüphaneleri
+# |Gerekli Python Kütüphaneleri|
 # openai
 # gTTS
 # playsound
